@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string-array name="zoneNames">
+        <item>בחר הכל</item>
+        <item>אילת</item>
+        <item>בקעה</item>
+        <item>בקעת בית שאן</item>
+        <item>גולן דרום</item>
+        <item>גולן צפון</item>
+        <item>גליל עליון</item>
+        <item>גליל תחתון</item>
+        <item>דן</item>
+        <item>דרום הנגב</item>
+        <item>הכרמל</item>
+        <item>המפרץ</item>
+        <item>העמקים</item>
+        <item>השפלה</item>
+        <item>ואדי ערה</item>
+        <item>יהודה</item>
+        <item>ים המלח</item>
+        <item>ירושלים</item>
+        <item>ירקון</item>
+        <item>לכיש</item>
+        <item>מנשה</item>
+        <item>מערב הנגב</item>
+        <item>מערב לכיש</item>
+        <item>מרכז הגליל</item>
+        <item>מרכז הנגב</item>
+        <item>עוטף עזה</item>
+        <item>ערבה</item>
+        <item>קו העימות</item>
+        <item>שומרון</item>
+        <item>שפלת יהודה</item>
+        <item>שרון</item>
+    </string-array>
+    <string-array translatable="false" name="zoneValues">
+        <item>all</item>
+        <item>אילת</item>
+        <item>בקעה</item>
+        <item>בקעת בית שאן</item>
+        <item>גולן דרום</item>
+        <item>גולן צפון</item>
+        <item>גליל עליון</item>
+        <item>גליל תחתון</item>
+        <item>דן</item>
+        <item>דרום הנגב</item>
+        <item>הכרמל</item>
+        <item>המפרץ</item>
+        <item>העמקים</item>
+        <item>השפלה</item>
+        <item>ואדי ערה</item>
+        <item>יהודה</item>
+        <item>ים המלח</item>
+        <item>ירושלים</item>
+        <item>ירקון</item>
+        <item>לכיש</item>
+        <item>מנשה</item>
+        <item>מערב הנגב</item>
+        <item>מערב לכיש</item>
+        <item>מרכז הגליל</item>
+        <item>מרכז הנגב</item>
+        <item>עוטף עזה</item>
+        <item>ערבה</item>
+        <item>קו העימות</item>
+        <item>שומרון</item>
+        <item>שפלת יהודה</item>
+        <item>שרון</item>
+    </string-array>
+</resources>
